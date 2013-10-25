@@ -135,7 +135,7 @@ map <silent> <F11> :call ToggleFullscreen()<CR>
 let g:syntastic_check_on_open = 1
 let g:syntastic_warning_symbol = 'WW'
 let g:syntastic_error_symbol = '!!'
-let g:syntastic_python_checker=["flake8"]
+let g:syntastic_python_checker="flake8"
 let g:syntastic_enable_signs = 1
 let g:syntastic_enable_balloons = 0
 let g:syntastic_enable_highlighting = 1

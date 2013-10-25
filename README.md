@@ -27,3 +27,4 @@ Just my vim configs and plugins.
 ##Dependencies
 
  * wmctrl - for full screen mode.
+ * flake8 - for python code checking.
